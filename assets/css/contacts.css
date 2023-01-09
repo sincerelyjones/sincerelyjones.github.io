@@ -1,0 +1,215 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: #b04848;
+    text-decoration: none;
+}
+.container {
+    width: 1350px;
+    margin: 0 auto;
+}
+header {
+    background: url("../images/header.png");
+    padding-top: 50px;
+    background-size: cover;
+}
+.logo-container {
+    display: inline-block;
+}
+.logo-container img {
+    width: 240px;
+}
+nav.header-navigation a:hover {
+    color: red;
+    font-weight: 1000;
+}
+.nav-container {
+    text-align: right;
+    padding-top: 45px;
+    float: right;
+    word-spacing: 4vh;
+    padding-right: 15px;
+    font-size: 20px;
+}
+h2{
+    text-transform: uppercase;
+    color: orange;
+}
+span {
+    display: block;
+}
+
+
+/* HIRE ME STYLE  */ /* section.hire-me-banner button{
+                            border: none;
+                            border-radius: 50%;
+                             background: brown;
+                        }                               */
+
+section.hire-me-banner {
+    padding: 55px;
+    background: #581c5a;
+    text-align: center;
+    font-size: 40px;
+    color: deeppink;
+ }
+section.hire-me-banner button {
+    padding: 16px 39px;
+        font-size: 25px;
+margin-top: 25px;
+ }
+ section.hire-me-banner button:hover{
+    color: red;
+
+ }
+
+ /* contact */
+
+ * {
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+    
+}
+body, form, input, textarea {
+    font-family:'Times New Roman', Times, serif
+}
+
+span {
+    display: block;
+}
+
+p {
+
+    font-size: 30px;
+    color: white;
+    line-height: 25px;
+}
+h1 {
+    font-size: 70px;
+    color: #ea11ed;
+    margin-top: 45px;
+    text-shadow: -2px 3px 0px #cd8fe7;
+    font-family: cursive;
+}
+h2{
+    text-transform: uppercase;
+    font-size: 45px;
+    margin-bottom: 27px;
+    color: white;
+}
+h3 {
+    color: #ab53ff;
+    font-size: 25px;
+}
+.container {
+
+    margin: 0 auto;
+    height: 120px;
+}
+
+
+
+/* Contact Styles */
+section#contact h2 {
+    color: rgb(255, 254, 254);
+    padding-top: 60px;
+    text-align: left;
+}
+
+.form-container {
+    text-align: center;
+    width: 95%;
+    margin-top: -80px;
+}
+input[type="text"]:focus-visible, textarea:focus-visible {
+    outline: none;
+}
+
+input[type="text"] {
+    width: 430px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background: transparent;
+
+}
+form {
+    text-align: center;
+    display: inline-flex;
+    flex-direction: column;
+    line-height: 60px;
+    padding-top: 50px;
+    color: whitesmoke;
+}
+textarea#message {
+    border: 1px solid  rgb(255, 245, 245);;
+    border-radius: 9px;
+    border-color: black;
+
+}
+form label {
+    display: block;
+    text-align: left;
+    color: #fafafa;
+}
+
+input[type="button"]:hover {
+    background: #079afc;
+}
+
+
+.footer-1 input[type="button"] {
+    margin-top: 0;
+    font-size: 11px;
+    padding: 15px 21px;
+    letter-spacing: 3px;
+    border-radius: 50px;
+    width: 110px;
+    text-transform: uppercase;
+}
+input[type="button"] {
+
+    font-size: 11px;
+    padding: 15px 21px;
+    letter-spacing: 3px;
+    border-radius: 50px;
+    width: 110px;
+    text-transform: uppercase;
+    float: right;
+}
+.media-icon {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 60px;
+}
+.media-icon img {
+    width: 555px;
+    height: 500px;
+    border-radius: 70px;
+}
+ body {
+    background: url(../images/purples.jpg);
+    background-size: cover;
+ } 
+ i.bx.bxl-gmail {
+    color: #de70dc;
+}
+i.bx.bxl-facebook-circle {
+    color: #de70dc;
+}     
+i.bx.bxl-twitter {
+    color: #de70dc;
+}
+i.bx.bxl-instagram {
+    color: #de70dc;
+}
+i.bx.bxl-telegram {
+    color: #de70dc;
+}
+i.bx.bxs-phone-call {
+    color: #de70dc;
+}
+
